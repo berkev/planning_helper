@@ -44,21 +44,12 @@ Both the skill and the responsibility are big things, but the responsibility end
 
 Two concepts serve to distinguish the upper mentioned items: Measurability and termination.
 
- _______________________________________________________________________________________________
-|                    |                                  |                                       |
-|                    |         Measurable               |               Not Measurable          |
-|                    |                                  |                                       |
--------------------------------------------------------------------------------------------------
--------------------------------------------------------------------------------------------------
-|                    |                                  |                                       |
+
+|     traits         |         Measurable               |               Not Measurable          |
+|--------------------|----------------------------------|---------------------------------------|
 |   Terminated       |     written exam                 |          Doing the taxes              | 
-|                    |                                  |                                       |
--------------------------------------------------------------------------------------------------
--------------------------------------------------------------------------------------------------
-|                    |                                  |                                       |
 |  Not Terminated    |     learning languages           |         cleaning the kitchen          |
-|                    |                                  |                                       |
-|_______________________________________________________________________________________________|
+
 
 Of course you could argue that "doing the taxes" might be measurable by the amount of money I can save or that "cleaning the kitchen" is something that
 could be very well terminated by a schedule. This example is how I see these things for my practical life.
